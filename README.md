@@ -10,8 +10,8 @@ my-portfolio/
 ├── css/
 │   └── style.css      # Stylesheet with all CSS styling
 ├── images/
-│   └── profile.png    # Profile picture (add your image here)
-└── README.md          # This file
+│   └── profile.png    # Profile picture
+└── README.md          
 ```
 
 ## ✨ Features
@@ -20,13 +20,7 @@ my-portfolio/
 - **Smooth Hover Effects**: Interactive elements with hover animations
 - **Clean Layout**: Simple and professional design
 - **Easy Navigation**: Fixed navigation bar for easy access to all sections
-- **Sections Included**:
-  - Home/Hero section with profile picture
-  - About Me section
-  - Skills section (MERN, Django, Java, Laravel)
-  - Projects section (Gemini Clone, Banking Management System, Weather App)
-  - Contact section with social links
-  - Footer with copyright information
+
 
 ## 🛠️ Technologies Used
 
@@ -34,19 +28,6 @@ my-portfolio/
 - CSS3
 - No JavaScript (pure HTML/CSS)
 
-## 🚀 How to Use
-
-1. **Add Your Profile Picture**:
-   - Place your profile picture in the `images/` folder
-   - Name it `profile.png` (or update the image paths in `index.html`)
-
-2. **Open the Website**:
-   - Simply open `index.html` in your web browser
-   - Or use a local server if preferred
-
-3. **Customize**:
-   - Edit `index.html` to update content, links, and information
-   - Modify `css/style.css` to change colors, fonts, and styling
 
 ## 📝 Projects Showcased
 
@@ -61,13 +42,7 @@ my-portfolio/
 - **Java**: Object-oriented programming
 - **Laravel**: PHP web framework
 
-## 📧 Contact
 
-Feel free to reach out through the contact section on the website!
-
-## 📄 License
-
-© 2024 Bipul Regmi. All rights reserved.
 
 ---
 
